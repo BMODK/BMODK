@@ -56,7 +56,7 @@ Currently, I am navigating through backend architectures with Java and Spring Bo
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=BMODK&theme=dark&background=0D0D0D&ring=681993&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=681993&sideLabels=681993&dates=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=BMODK&theme=dark&background=0D0D0D&ring=681993&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=681993&sideLabels=681993&dates=FFFFFF" />
 
  <img height="180" src=" https://github-stats-extended.vercel.app/api?username=BMODK&show_icons=true&bg_color=0D0D0D&title_color=681993&text_color=FFFFFF&icon_color=681993&border_color=FFFFFF" />
 
