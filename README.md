@@ -34,7 +34,7 @@ Currently, I am navigating through backend architectures with Java and Spring Bo
 <br>
 
 <p align="center">
-  <a href="www.linkedin.com/in/joão-paulo-da-silva-89ba0b371">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-da-silva-89ba0b371/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=681993&v=2" />  </a>
   <a href="https://www.twitch.tv/jaumd3k">
     <img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=681993"/>
